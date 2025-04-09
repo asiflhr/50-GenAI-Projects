@@ -1,0 +1,9 @@
+transformers
+diffusers
+ctransformers
+Pillow
+gradio
+streamlit
+accelerate
+pypdf
+peft

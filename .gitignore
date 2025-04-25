@@ -1,1 +1,4 @@
 Models/
+.env*
+.env
+.venv
